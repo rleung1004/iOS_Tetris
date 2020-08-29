@@ -21,6 +21,7 @@
 		421FDBCC24FAF9D8005A1D20 /* bomb.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 421FDBC724FAF9D8005A1D20 /* bomb.mp3 */; };
 		421FDBCE24FAFA03005A1D20 /* Sprites.atlas in Resources */ = {isa = PBXBuildFile; fileRef = 421FDBCD24FAFA03005A1D20 /* Sprites.atlas */; };
 		421FDBD024FAFD0C005A1D20 /* Array2D.swift in Sources */ = {isa = PBXBuildFile; fileRef = 421FDBCF24FAFD0C005A1D20 /* Array2D.swift */; };
+		421FDBD224FB017C005A1D20 /* Block.swift in Sources */ = {isa = PBXBuildFile; fileRef = 421FDBD124FB017C005A1D20 /* Block.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -40,6 +41,7 @@
 		421FDBC724FAF9D8005A1D20 /* bomb.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = bomb.mp3; sourceTree = "<group>"; };
 		421FDBCD24FAFA03005A1D20 /* Sprites.atlas */ = {isa = PBXFileReference; lastKnownFileType = folder.skatlas; path = Sprites.atlas; sourceTree = "<group>"; };
 		421FDBCF24FAFD0C005A1D20 /* Array2D.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Array2D.swift; sourceTree = "<group>"; };
+		421FDBD124FB017C005A1D20 /* Block.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Block.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -83,6 +85,7 @@
 				421FDBCD24FAFA03005A1D20 /* Sprites.atlas */,
 				421FDBC224FAF9D8005A1D20 /* Sounds */,
 				421FDBCF24FAFD0C005A1D20 /* Array2D.swift */,
+				421FDBD124FB017C005A1D20 /* Block.swift */,
 			);
 			path = Tetris_iOS;
 			sourceTree = "<group>";
@@ -179,6 +182,7 @@
 			files = (
 				421FDBB124FAF6C1005A1D20 /* GameScene.swift in Sources */,
 				421FDBD024FAFD0C005A1D20 /* Array2D.swift in Sources */,
+				421FDBD224FB017C005A1D20 /* Block.swift in Sources */,
 				421FDBB324FAF6C1005A1D20 /* GameViewController.swift in Sources */,
 				421FDBAB24FAF6C1005A1D20 /* AppDelegate.swift in Sources */,
 			);
