@@ -21,11 +21,13 @@
       "size" : "29x29"
     },
     {
+      "filename" : "icon-40pt.png",
       "idiom" : "iphone",
       "scale" : "2x",
       "size" : "40x40"
     },
     {
+      "filename" : "icon-60pt.png",
       "idiom" : "iphone",
       "scale" : "3x",
       "size" : "40x40"
@@ -56,6 +58,7 @@
       "size" : "29x29"
     },
     {
+      "filename" : "icon-29pt.png",
       "idiom" : "ipad",
       "scale" : "2x",
       "size" : "29x29"
