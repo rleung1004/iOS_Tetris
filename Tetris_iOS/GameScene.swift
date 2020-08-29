@@ -2,7 +2,7 @@
 //  GameScene.swift
 //  Tetris_iOS
 //
-//  Created by Levona Yim on 2020-08-29.
+//  Created by Ryan Leung on 2020-08-29.
 //  Copyright © 2020 Ryan Leung. All rights reserved.
 //
 
