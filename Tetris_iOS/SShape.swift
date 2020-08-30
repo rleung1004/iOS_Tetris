@@ -42,7 +42,6 @@ class SShape: Shape {
             Orientation.Ninety: [blocks[FirstBlockIdx], blocks[ThirdBlockIdx], blocks[FourthBlockIdx]],
             Orientation.OneEighty: [blocks[SecondBlockIdx], blocks[FourthBlockIdx]],
             Orientation.TwoSeventy: [blocks[FirstBlockIdx], blocks[ThirdBlockIdx], blocks[FourthBlockIdx]],
-            
         ]
     }
 }
