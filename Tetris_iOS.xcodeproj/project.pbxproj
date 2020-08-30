@@ -30,6 +30,7 @@
 		421FDBDE24FBB8DB005A1D20 /* JShape.swift in Sources */ = {isa = PBXBuildFile; fileRef = 421FDBDD24FBB8DB005A1D20 /* JShape.swift */; };
 		421FDBE024FBBB45005A1D20 /* SShape.swift in Sources */ = {isa = PBXBuildFile; fileRef = 421FDBDF24FBBB45005A1D20 /* SShape.swift */; };
 		421FDBE224FBBD49005A1D20 /* ZShape.swift in Sources */ = {isa = PBXBuildFile; fileRef = 421FDBE124FBBD49005A1D20 /* ZShape.swift */; };
+		421FDBE424FBC3CD005A1D20 /* GameLogic.swift in Sources */ = {isa = PBXBuildFile; fileRef = 421FDBE324FBC3CD005A1D20 /* GameLogic.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -58,6 +59,7 @@
 		421FDBDD24FBB8DB005A1D20 /* JShape.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = JShape.swift; sourceTree = "<group>"; };
 		421FDBDF24FBBB45005A1D20 /* SShape.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SShape.swift; sourceTree = "<group>"; };
 		421FDBE124FBBD49005A1D20 /* ZShape.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ZShape.swift; sourceTree = "<group>"; };
+		421FDBE324FBC3CD005A1D20 /* GameLogic.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = GameLogic.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -110,6 +112,7 @@
 				421FDBDD24FBB8DB005A1D20 /* JShape.swift */,
 				421FDBDF24FBBB45005A1D20 /* SShape.swift */,
 				421FDBE124FBBD49005A1D20 /* ZShape.swift */,
+				421FDBE324FBC3CD005A1D20 /* GameLogic.swift */,
 			);
 			path = Tetris_iOS;
 			sourceTree = "<group>";
@@ -210,6 +213,7 @@
 				421FDBDE24FBB8DB005A1D20 /* JShape.swift in Sources */,
 				421FDBD424FBA2E8005A1D20 /* Shape.swift in Sources */,
 				421FDBD024FAFD0C005A1D20 /* Array2D.swift in Sources */,
+				421FDBE424FBC3CD005A1D20 /* GameLogic.swift in Sources */,
 				421FDBD824FBB153005A1D20 /* TShape.swift in Sources */,
 				421FDBE024FBBB45005A1D20 /* SShape.swift in Sources */,
 				421FDBDA24FBB495005A1D20 /* BarShape.swift in Sources */,
