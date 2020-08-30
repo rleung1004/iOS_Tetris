@@ -24,6 +24,7 @@
 		421FDBD224FB017C005A1D20 /* Block.swift in Sources */ = {isa = PBXBuildFile; fileRef = 421FDBD124FB017C005A1D20 /* Block.swift */; };
 		421FDBD424FBA2E8005A1D20 /* Shape.swift in Sources */ = {isa = PBXBuildFile; fileRef = 421FDBD324FBA2E8005A1D20 /* Shape.swift */; };
 		421FDBD624FBAF4E005A1D20 /* SquareShape.swift in Sources */ = {isa = PBXBuildFile; fileRef = 421FDBD524FBAF4E005A1D20 /* SquareShape.swift */; };
+		421FDBD824FBB153005A1D20 /* TShape.swift in Sources */ = {isa = PBXBuildFile; fileRef = 421FDBD724FBB153005A1D20 /* TShape.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -46,6 +47,7 @@
 		421FDBD124FB017C005A1D20 /* Block.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Block.swift; sourceTree = "<group>"; };
 		421FDBD324FBA2E8005A1D20 /* Shape.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Shape.swift; sourceTree = "<group>"; };
 		421FDBD524FBAF4E005A1D20 /* SquareShape.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SquareShape.swift; sourceTree = "<group>"; };
+		421FDBD724FBB153005A1D20 /* TShape.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TShape.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -92,6 +94,7 @@
 				421FDBD124FB017C005A1D20 /* Block.swift */,
 				421FDBD324FBA2E8005A1D20 /* Shape.swift */,
 				421FDBD524FBAF4E005A1D20 /* SquareShape.swift */,
+				421FDBD724FBB153005A1D20 /* TShape.swift */,
 			);
 			path = Tetris_iOS;
 			sourceTree = "<group>";
@@ -190,6 +193,7 @@
 				421FDBB124FAF6C1005A1D20 /* GameScene.swift in Sources */,
 				421FDBD424FBA2E8005A1D20 /* Shape.swift in Sources */,
 				421FDBD024FAFD0C005A1D20 /* Array2D.swift in Sources */,
+				421FDBD824FBB153005A1D20 /* TShape.swift in Sources */,
 				421FDBD224FB017C005A1D20 /* Block.swift in Sources */,
 				421FDBB324FAF6C1005A1D20 /* GameViewController.swift in Sources */,
 				421FDBAB24FAF6C1005A1D20 /* AppDelegate.swift in Sources */,
