@@ -27,6 +27,7 @@
 		421FDBD824FBB153005A1D20 /* TShape.swift in Sources */ = {isa = PBXBuildFile; fileRef = 421FDBD724FBB153005A1D20 /* TShape.swift */; };
 		421FDBDA24FBB495005A1D20 /* BarShape.swift in Sources */ = {isa = PBXBuildFile; fileRef = 421FDBD924FBB495005A1D20 /* BarShape.swift */; };
 		421FDBDC24FBB64D005A1D20 /* LShape.swift in Sources */ = {isa = PBXBuildFile; fileRef = 421FDBDB24FBB64D005A1D20 /* LShape.swift */; };
+		421FDBDE24FBB8DB005A1D20 /* JShape.swift in Sources */ = {isa = PBXBuildFile; fileRef = 421FDBDD24FBB8DB005A1D20 /* JShape.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -52,6 +53,7 @@
 		421FDBD724FBB153005A1D20 /* TShape.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TShape.swift; sourceTree = "<group>"; };
 		421FDBD924FBB495005A1D20 /* BarShape.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = BarShape.swift; sourceTree = "<group>"; };
 		421FDBDB24FBB64D005A1D20 /* LShape.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = LShape.swift; sourceTree = "<group>"; };
+		421FDBDD24FBB8DB005A1D20 /* JShape.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = JShape.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -101,6 +103,7 @@
 				421FDBD724FBB153005A1D20 /* TShape.swift */,
 				421FDBD924FBB495005A1D20 /* BarShape.swift */,
 				421FDBDB24FBB64D005A1D20 /* LShape.swift */,
+				421FDBDD24FBB8DB005A1D20 /* JShape.swift */,
 			);
 			path = Tetris_iOS;
 			sourceTree = "<group>";
@@ -198,6 +201,7 @@
 				421FDBDC24FBB64D005A1D20 /* LShape.swift in Sources */,
 				421FDBD624FBAF4E005A1D20 /* SquareShape.swift in Sources */,
 				421FDBB124FAF6C1005A1D20 /* GameScene.swift in Sources */,
+				421FDBDE24FBB8DB005A1D20 /* JShape.swift in Sources */,
 				421FDBD424FBA2E8005A1D20 /* Shape.swift in Sources */,
 				421FDBD024FAFD0C005A1D20 /* Array2D.swift in Sources */,
 				421FDBD824FBB153005A1D20 /* TShape.swift in Sources */,
