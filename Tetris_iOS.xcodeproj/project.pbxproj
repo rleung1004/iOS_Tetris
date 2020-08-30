@@ -25,6 +25,7 @@
 		421FDBD424FBA2E8005A1D20 /* Shape.swift in Sources */ = {isa = PBXBuildFile; fileRef = 421FDBD324FBA2E8005A1D20 /* Shape.swift */; };
 		421FDBD624FBAF4E005A1D20 /* SquareShape.swift in Sources */ = {isa = PBXBuildFile; fileRef = 421FDBD524FBAF4E005A1D20 /* SquareShape.swift */; };
 		421FDBD824FBB153005A1D20 /* TShape.swift in Sources */ = {isa = PBXBuildFile; fileRef = 421FDBD724FBB153005A1D20 /* TShape.swift */; };
+		421FDBDA24FBB495005A1D20 /* BarShape.swift in Sources */ = {isa = PBXBuildFile; fileRef = 421FDBD924FBB495005A1D20 /* BarShape.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -48,6 +49,7 @@
 		421FDBD324FBA2E8005A1D20 /* Shape.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Shape.swift; sourceTree = "<group>"; };
 		421FDBD524FBAF4E005A1D20 /* SquareShape.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SquareShape.swift; sourceTree = "<group>"; };
 		421FDBD724FBB153005A1D20 /* TShape.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TShape.swift; sourceTree = "<group>"; };
+		421FDBD924FBB495005A1D20 /* BarShape.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = BarShape.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -95,6 +97,7 @@
 				421FDBD324FBA2E8005A1D20 /* Shape.swift */,
 				421FDBD524FBAF4E005A1D20 /* SquareShape.swift */,
 				421FDBD724FBB153005A1D20 /* TShape.swift */,
+				421FDBD924FBB495005A1D20 /* BarShape.swift */,
 			);
 			path = Tetris_iOS;
 			sourceTree = "<group>";
@@ -194,6 +197,7 @@
 				421FDBD424FBA2E8005A1D20 /* Shape.swift in Sources */,
 				421FDBD024FAFD0C005A1D20 /* Array2D.swift in Sources */,
 				421FDBD824FBB153005A1D20 /* TShape.swift in Sources */,
+				421FDBDA24FBB495005A1D20 /* BarShape.swift in Sources */,
 				421FDBD224FB017C005A1D20 /* Block.swift in Sources */,
 				421FDBB324FAF6C1005A1D20 /* GameViewController.swift in Sources */,
 				421FDBAB24FAF6C1005A1D20 /* AppDelegate.swift in Sources */,
