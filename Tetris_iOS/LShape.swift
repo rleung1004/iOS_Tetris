@@ -44,7 +44,7 @@ class LShape: Shape {
      
      */
     
-    override var blockRowColumnPosition: [Orientation : Array<(columnDiff: Int, rowDiff: Int)>] {
+    override var blockRowColumnPositions: [Orientation : Array<(columnDiff: Int, rowDiff: Int)>] {
         return [
             Orientation.Zero: [(0, 0), (0, 1), (0, 2), (1, 2)],
             Orientation.Ninety: [(1, 1), (0, 1), (-1, 1), (-1, 2)],

@@ -41,7 +41,7 @@ class TShape: Shape {
      
      */
     
-    override var blockRowColumnPosition: [Orientation : Array<(columnDiff: Int, rowDiff: Int)>] {
+    override var blockRowColumnPositions: [Orientation : Array<(columnDiff: Int, rowDiff: Int)>] {
         return [
             Orientation.Zero: [(1, 0), (0, 1), (1, 1), (2, 1)],
             Orientation.Ninety: [(2, 1), (1, 0), (1, 1), (2, 1)],
