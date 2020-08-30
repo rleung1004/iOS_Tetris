@@ -55,6 +55,12 @@ class Block: Hashable, CustomStringConvertible {
         hasher.combine(row)
     }
     
+    var hashValue: Int {
+        var hasher = Hasher()
+        self.hash(into: &hasher)
+        return hasher.finalize()
+    }
+    
     var description: String {
         return "\(color): [\(column), \(row)]"
     }

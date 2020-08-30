@@ -22,6 +22,8 @@
 		421FDBCE24FAFA03005A1D20 /* Sprites.atlas in Resources */ = {isa = PBXBuildFile; fileRef = 421FDBCD24FAFA03005A1D20 /* Sprites.atlas */; };
 		421FDBD024FAFD0C005A1D20 /* Array2D.swift in Sources */ = {isa = PBXBuildFile; fileRef = 421FDBCF24FAFD0C005A1D20 /* Array2D.swift */; };
 		421FDBD224FB017C005A1D20 /* Block.swift in Sources */ = {isa = PBXBuildFile; fileRef = 421FDBD124FB017C005A1D20 /* Block.swift */; };
+		421FDBD424FBA2E8005A1D20 /* Shape.swift in Sources */ = {isa = PBXBuildFile; fileRef = 421FDBD324FBA2E8005A1D20 /* Shape.swift */; };
+		421FDBD624FBAF4E005A1D20 /* SquareShape.swift in Sources */ = {isa = PBXBuildFile; fileRef = 421FDBD524FBAF4E005A1D20 /* SquareShape.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -42,6 +44,8 @@
 		421FDBCD24FAFA03005A1D20 /* Sprites.atlas */ = {isa = PBXFileReference; lastKnownFileType = folder.skatlas; path = Sprites.atlas; sourceTree = "<group>"; };
 		421FDBCF24FAFD0C005A1D20 /* Array2D.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Array2D.swift; sourceTree = "<group>"; };
 		421FDBD124FB017C005A1D20 /* Block.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Block.swift; sourceTree = "<group>"; };
+		421FDBD324FBA2E8005A1D20 /* Shape.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Shape.swift; sourceTree = "<group>"; };
+		421FDBD524FBAF4E005A1D20 /* SquareShape.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SquareShape.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -86,6 +90,8 @@
 				421FDBC224FAF9D8005A1D20 /* Sounds */,
 				421FDBCF24FAFD0C005A1D20 /* Array2D.swift */,
 				421FDBD124FB017C005A1D20 /* Block.swift */,
+				421FDBD324FBA2E8005A1D20 /* Shape.swift */,
+				421FDBD524FBAF4E005A1D20 /* SquareShape.swift */,
 			);
 			path = Tetris_iOS;
 			sourceTree = "<group>";
@@ -180,7 +186,9 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				421FDBD624FBAF4E005A1D20 /* SquareShape.swift in Sources */,
 				421FDBB124FAF6C1005A1D20 /* GameScene.swift in Sources */,
+				421FDBD424FBA2E8005A1D20 /* Shape.swift in Sources */,
 				421FDBD024FAFD0C005A1D20 /* Array2D.swift in Sources */,
 				421FDBD224FB017C005A1D20 /* Block.swift in Sources */,
 				421FDBB324FAF6C1005A1D20 /* GameViewController.swift in Sources */,
